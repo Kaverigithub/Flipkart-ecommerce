@@ -1,0 +1,8 @@
+public class login
+{
+
+int a =500
+	int b=10;
+system.out.println("hello");
+}
+
